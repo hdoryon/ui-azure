@@ -1,0 +1,15 @@
+{
+  "name": "ui-azure",
+  "version": "1.0.0",
+  "description": "ui test project for azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azure"
+  ],
+  "author": "Hezi Doryon",
+  "license": "ISC",
+  "dependencies": {}
+}
